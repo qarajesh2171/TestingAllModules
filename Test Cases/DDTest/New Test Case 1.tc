@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49c14e8d-dcb4-47c0-a625-fa3b63763542</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.Sendtext</defaultValue>
+      <description></description>
+      <id>dda32c84-6dd0-41ac-ab63-2bb4ea08ab26</id>
+      <masked>false</masked>
+      <name>Sendtext</name>
+   </variable>
+</TestCaseEntity>
